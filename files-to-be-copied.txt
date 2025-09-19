@@ -1,0 +1,6 @@
+.github/workflows/fileToBeCopied.txt:.github/workflows/fileToBeCopied.txt
+.github/workflows/TPT-GEN-SyncChanges.yml:.github/workflows/TPT-GEN-SyncChanges.yml
+files-to-be-copied.txt:files-to-be-copied.txt
+.template-sync-paths:.template-sync-paths
+.template-sync-exclusions:.template-sync-exclusions
+.github/CODEOWNERS:.github/CODEOWNERS
